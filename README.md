@@ -9,6 +9,6 @@ https://amazon-clone-2-zeta.vercel.app/
 ![4](https://user-images.githubusercontent.com/83940432/144621693-0026bac6-7c5c-4ab7-96eb-bb553671530c.png)
 ![5](https://user-images.githubusercontent.com/83940432/144621704-14271770-b58b-4262-9414-82f4d00ac4ab.png)
 
-
+PS: Since it's on hobby plan of vercel so it might give a 504 error at first please refresh the page 2-3 times. Sorry for the inconvenience. 
 
 
