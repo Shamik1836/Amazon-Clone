@@ -20,7 +20,7 @@ export default async (req, res) => {
     payment_method_types: ["card"],
     shipping_rates: ["shr_1K28JqSJkISaG0qXnFslTXbQ"],
     shipping_address_collection: {
-      allowed_countries: ["GB", "US", "CA", "IN"],
+      allowed_countries: ["IN"],
     },
     line_items: transformedItems,
     mode: "payment",
