@@ -1,5 +1,5 @@
-This is a complete clone of Amazon website built using NextJS, Redux, Tailwind CSS, Firestore Database and authentication being provided b y Google Firebase. All the products are fetched from the fakestore api.Users can buy necessary products and complete their payments through Stripe. 
-By building this project I was able to learn new concepts like the server side rendering being provided by NextJS, the routing wsystem being provided by Next Auth.
+This is a complete clone of Amazon website built using NextJS, Redux, Tailwind CSS, Firestore Database and authentication being provided by Google Firebase. All the products are fetched from the fakestore api.Users can buy necessary products and complete their payments through Stripe. 
+By building this project I was able to learn new concepts like the server side rendering being provided by NextJS, the routing system being provided by Next Auth.
 Previously I used Styled components or react bootstrap while building projects but in this project I for the first time used Tailwind CSS and absolutely loved it, it made3 my job really easier by providing custom classes that I can use without worrying too much.
 The app is being hosted on Vercel. Here is the link to my website, do check it out
 https://amazon-clone-2-zeta.vercel.app/
